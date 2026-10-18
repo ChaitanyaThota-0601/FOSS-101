@@ -6,6 +6,11 @@ Welcome to the **FOSS-101** repository! Follow the step-by-step instructions bel
 
 ## Instructions
 
+
+
+
+
+
 ### 1. Fork the Repository
 1. Navigate to the top-right corner of this repository on GitHub.
 2. Click the **Fork** button to create a copy of this repository under your personal GitHub account.
